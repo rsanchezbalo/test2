@@ -10,7 +10,6 @@ assignees: ''
   Describe the bug with as much detail as possible to make it easier for us to fix it. If you share any configuration, please, ensure you redact all your credentials.
   -->
 
-
 **Choose one**
 - [ ] I cannot work with Taiga and I don’t have any workaround
 - [ ] It’s difficult to work with Taiga and I don’t have any workaround
@@ -43,4 +42,4 @@ assignees: ''
  - **Version:** <!-- e.g. 22 -->
 
 **Additional context**
-<!-- Add any other context about the problem here. -->
+<!-- Add any other context about the bug here. -->
