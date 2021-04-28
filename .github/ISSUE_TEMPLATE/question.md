@@ -5,7 +5,6 @@ title: '[Q]'
 labels: question
 assignees: ''
 ---
-
 <!--
   Please, check the official documentation(https://docs.taiga.io) and our resources site(https://resources.taiga.io/) and FAQs(https://resources.taiga.io/faqs/) they may have the solution to your question.
 
